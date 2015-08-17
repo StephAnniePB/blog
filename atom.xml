@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://stephanniepb.github.io/blog/atom.xml" rel="self"/>
   <link href="http://stephanniepb.github.io/blog/"/>
-  <updated>2015-08-17T15:18:26-05:00</updated>
+  <updated>2015-08-17T15:29:27-05:00</updated>
   <id>http://stephanniepb.github.io/blog/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Tech Discoveries]]></title>
+    <link href="http://stephanniepb.github.io/blog/blog/2015/06/19/tech-discoveries/"/>
+    <updated>2015-06-19T15:24:17-05:00</updated>
+    <id>http://stephanniepb.github.io/blog/blog/2015/06/19/tech-discoveries</id>
+    <content type="html"><![CDATA[<p>Yesterday I learned some new things that I can add to my tech bag and I was reminded of some old favorites. The academy reminded me of Google Docs. I am still working on learning my way around this feature being that I am old school. Meaning I like carrying flash drives around on my key chain.  I learned about Trello and Harvest. I learned about Slacker and played around with my Mac AirBook. I really like that we use Mac in class because it gives me an opportunity to familiarize myself with the system and build a new skill.</p>
+]]></content>
+  </entry>
   
 </feed>
