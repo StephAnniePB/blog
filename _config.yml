@@ -7,7 +7,7 @@ title: Steph's Tech Adventure
 subtitle: My Curious Journey as a Web Developer
 author: stephanniepb
 simple_search: https://www.google.com/search
-description: A blog about my experience as a developer.
+description: 'This blog is a record of my journey as a Front End Web Developer which began in June of this year. As a member of the YWEB Carreer Academy I have gotten a taste of CSS, Git, HTML, Javascript and JQuery.'
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -64,13 +64,13 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # ----------------------- #
 
 # Github repositories
-github_user:https://github.com/StephAnniePB
+github_user: StephAnniePB
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:https://twitter.com/StephAnniePB
+twitter_user: StephAnniePB
 twitter_tweet_button: true
 
 # Google +1
@@ -99,3 +99,5 @@ google_analytics_tracking_id:
 
 # Facebook Like
 facebook_like: false
+
+linkedin_user: stephaniepamperin
