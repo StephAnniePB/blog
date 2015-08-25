@@ -4,7 +4,7 @@
   <title><![CDATA[Steph's Tech Adventure]]></title>
   <link href="http://stephanniepb.github.io/blog/atom.xml" rel="self"/>
   <link href="http://stephanniepb.github.io/blog/"/>
-  <updated>2015-08-25T11:38:38-05:00</updated>
+  <updated>2015-08-25T14:57:33-05:00</updated>
   <id>http://stephanniepb.github.io/blog/</id>
   <author>
     <name><![CDATA[stephanniepb]]></name>
@@ -12,24 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[My Week in Review]]></title>
-    <link href="http://stephanniepb.github.io/blog/blog/2015/08/25/my-week-in-review/"/>
-    <updated>2015-08-25T11:29:40-05:00</updated>
-    <id>http://stephanniepb.github.io/blog/blog/2015/08/25/my-week-in-review</id>
-    <content type="html"><![CDATA[<p>07-31-2015</p>
-
-<p>I am grateful that I opened my eyes this morning.
-I am grateful that I am five days into my thirty-sixth year of life.
-I am grateful that I was brave enough to drink the Kool-Aid which has allowed me the pleasure of sitting at the picnic table writing this while enjoying the sun.
-I am grateful for the friendships I have built with my fellow classmates and I am excited about the opportunity to watch them grow.
-I am grateful that Perkins is open twenty-four hours and serves bottomless coffee.
-I am grateful that this eleven weeks is only eleven weeks.
-I am grateful that trouble don&rsquo;t last always and this to shall pass.
-This week has been a challenge, and though I am known for thriving on them, too many too fast leaves me cranky and out of sorts. Pressed upon me this week is the realization that even when I start work I will be living above my income by choosing to keep my current place. This opens a doorway of dilemma for me. I know that it is time to move but it is extremely difficult for me to let go of the place I have called home for five years. I know that I am making the right decision, it will take some time for me to accept that there is a time for everything. Now is the time for me to downsize and prepare myself for the next steps in my journey. I will not let this apartment be the reason I am unable to reach my goal of driving and I will not let this apartment be the reason I am forced to remain on Social Security. I want more from my life and I am not afraid to work for it. Hard work is one of the things I thrive on and the decision to continue drinking the Kool Aid has been a good one though right now it is not reflected in my report card. I am going to turn this around this week because my personal issues have finally receded to the point where they will not effect my performance. I am someone used to performing at the top of my game and I will be there again. It is my sincere hope that when I get an internship it will be a training one. That way I can continue developing my skills as I carve out a life for myself.</p>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[This Week I Have the Blues]]></title>
@@ -85,6 +67,35 @@ This week has been a challenge, and though I am known for thriving on them, too 
     <id>http://stephanniepb.github.io/blog/blog/2015/08/22/entering-the-world-of-js</id>
     <content type="html"><![CDATA[<p>This week we have dived into the bright yellow world of JS. This world is bright yellow because our textbook &ldquo;Eloquent Javascript&rdquo; is that color. I am excited to gain a deeper understanding of the book that sat on my nightstand surrounded by my beloved fiction for serveral months.
 I had opened it before Monday; but on Monday the language shifted from Heiroglyphics to English. I love that I had taken logic classes as a student because it made working with chapter one a review. Feeling this way about chapter one made it easier to seek out the challenge of code school. I discovered code school when my teacher sent me an invite through Gmail. I like the program and it is teaching me a lot. I am excited to use it but sometimes I wish I had more examples of how things should be done. This weekend I am going to start reading chapter two and see if I can work on learning Git some more.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[My Week in Review]]></title>
+    <link href="http://stephanniepb.github.io/blog/blog/2015/07/31/my-week-in-review/"/>
+    <updated>2015-07-31T00:00:00-05:00</updated>
+    <id>http://stephanniepb.github.io/blog/blog/2015/07/31/my-week-in-review</id>
+    <content type="html"><![CDATA[<hr />
+
+<p>layout: post
+title: &ldquo;My Week in Review&rdquo;
+date: 2015-08-25 11:29:40 -0500
+comments: true</p>
+
+<h2>categories: </h2>
+
+<ol>
+<li>I am grateful that I opened my eyes this morning.</li>
+<li>I am grateful that I am five days into my thirty-sixth year of life.</li>
+<li>I am grateful that I was brave enough to drink the Kool-Aid which has allowed me the pleasure of sitting at the picnic table writing this while enjoying the sun.</li>
+<li>I am grateful for the friendships I have built with my fellow classmates and I am excited about the opportunity to watch them grow.
+5.I am grateful that Perkins is open twenty-four hours and serves bottomless coffee.</li>
+<li>I am grateful that this eleven weeks is only eleven weeks.
+7.I am grateful that trouble don&rsquo;t last always and this to shall pass.</li>
+</ol>
+
+
+<p>This week has been a challenge, and though I am known for thriving on them, too many too fast leaves me cranky and out of sorts. Pressed upon me this week is the realization that even when I start work I will be living above my income by choosing to keep my current place. This opens a doorway of dilemma for me. I know that it is time to move but it is extremely difficult for me to let go of the place I have called home for five years. I know that I am making the right decision, it will take some time for me to accept that there is a time for everything. Now is the time for me to downsize and prepare myself for the next steps in my journey. I will not let this apartment be the reason I am unable to reach my goal of driving and I will not let this apartment be the reason I am forced to remain on Social Security. I want more from my life and I am not afraid to work for it. Hard work is one of the things I thrive on and the decision to continue drinking the Kool Aid has been a good one though right now it is not reflected in my report card. I am going to turn this around this week because my personal issues have finally receded to the point where they will not effect my performance. I am someone used to performing at the top of my game and I will be there again. It is my sincere hope that when I get an internship it will be a training one. That way I can continue developing my skills as I carve out a life for myself.</p>
 ]]></content>
   </entry>
   

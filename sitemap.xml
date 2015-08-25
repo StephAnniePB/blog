@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://stephanniepb.github.io/blog/blog/2015/08/25/my-week-in-review/</loc>
-    <lastmod>2015-08-25T11:29:40-05:00</lastmod>
-  </url>
-  <url>
     <loc>http://stephanniepb.github.io/blog/blog/2015/08/25/this-week-i-have-the-blues/</loc>
     <lastmod>2015-08-25T10:58:26-05:00</lastmod>
   </url>
@@ -27,6 +23,10 @@
   <url>
     <loc>http://stephanniepb.github.io/blog/blog/2015/08/22/entering-the-world-of-js/</loc>
     <lastmod>2015-08-22T15:03:41-05:00</lastmod>
+  </url>
+  <url>
+    <loc>http://stephanniepb.github.io/blog/blog/2015/07/31/my-week-in-review/</loc>
+    <lastmod>2015-07-31T00:00:00-05:00</lastmod>
   </url>
   <url>
     <loc>http://stephanniepb.github.io/blog/blog/2015/06/19/tech-discoveries/</loc>
