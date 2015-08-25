@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Getting Git"
-date: 2015-08-25 10:45:38 -0500
+date: 2015-07-17 10:45:38 -0500
 comments: true
 categories: 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Madison+UX Weekend"
-date: 2015-08-24 00:01:00 -0500
+date: 2015-07-12 00:01:00 -0500
 comments: true
 categories: 
 ---

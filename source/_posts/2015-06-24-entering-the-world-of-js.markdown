@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Entering the World of JS"
-date: 2015-08-22 15:03:41 -0500
+date: 2015-06-24 15:03:41 -0500
 comments: true
 categories: 
 ---

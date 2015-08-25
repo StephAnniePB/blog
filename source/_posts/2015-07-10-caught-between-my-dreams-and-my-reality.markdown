@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Caught Between My Dreams and My Reality"
-date: 2015-08-23 23:50:13 -0500
+date: 2015-07-10 23:50:13 -0500
 comments: true
 categories: 
 ---
