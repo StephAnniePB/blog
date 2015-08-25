@@ -4,7 +4,7 @@ title: "My Week in Review"
 date: 2015-07-31 11:29:40 -0500
 comments: true
 categories: 
----------
+---
 
 1. I am grateful that I opened my eyes this morning.
 2. I am grateful that I am five days into my thirty-sixth year of life.
